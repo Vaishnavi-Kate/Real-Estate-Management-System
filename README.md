@@ -1,7 +1,7 @@
-# SearchMyHome - Real Estate Web Application
+# Real Estate Web Application
 
 ## Project Overview
-SearchMyHome is a robust, full-stack Java-based web application engineered to simplify modern real estate transactions. The platform bridges the gap between property seekers and providers by offering a centralized hub to seamlessly search, buy, rent, and list diverse residential accommodations. Designed to cater to varied urban housing requirements, the system supports standard property transactions along with specialized categories like Paying Guest (PG) accommodations, student hostels, and co-living flatmate searches.
+Real Estate Web Application is a robust, full-stack Java-based web application engineered to simplify modern real estate transactions. The platform bridges the gap between property seekers and providers by offering a centralized hub to seamlessly search, buy, rent, and list diverse residential accommodations. Designed to cater to varied urban housing requirements, the system supports standard property transactions along with specialized categories like Paying Guest (PG) accommodations, student hostels, and co-living flatmate searches.
 
 ---
 
